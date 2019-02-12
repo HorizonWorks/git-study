@@ -1,3 +1,7 @@
 Git is a version control system.
 Git is a free software.
-Git is awsome.
+Git is awesome.
+Git is convenient.
+Git is simple.
+Git is fantastic.
+Git is great.
